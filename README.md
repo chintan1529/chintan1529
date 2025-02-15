@@ -34,7 +34,7 @@ A chatbot designed to provide mental health support using **AI and NLP**.
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/chintan-chhajed-339b86294/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintan-chhajed-339b86294/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white)](#)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chintanchhajed@gmail.com)
 
